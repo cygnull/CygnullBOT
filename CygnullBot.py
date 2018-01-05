@@ -32,8 +32,9 @@ async def testing(*args):
 	await asyncio.sleep(3)
 	await client.say(":warning: This bot was created by **Cygnull#1348**, Updates pushed to GitHub regularly!")
 # After you have modified the code, feel free to delete the line above (line 33) so it does not keep popping up everytime you initiate the ping commmand.
-	
-client.run('Mzk2MDM0NTYwNDc2ODM5OTM4.DSbjpw.XP-NWs5z5WC0BnPySt2Zuc_XTEA')
+
+# I am temporarily using BOT_TOKEN_HERE as a place holder for the App Token until I add code which grabs the Token from another file and inserts it where BOT_TOKEN_HERE is. 
+client.run('BOT_TOKEN_HERE')
 
 # Cygnull A.I. Discord Bot was created by Cygnull#1348 
 # Please join this Discord server if you have any suggestions, comments, need help, or want to help out and become a Developer: https://discord.gg/hyGa7J2
